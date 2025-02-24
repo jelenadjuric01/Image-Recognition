@@ -1,0 +1,1 @@
+Python project done for Deep learning class. Tackls image recognition problem using deep learning and various types of neural networks. Data that is used is a subset of xview (http://xviewdataset.org/) dataset 
